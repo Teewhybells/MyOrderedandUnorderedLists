@@ -1,0 +1,33 @@
+ol.ordered{
+    list-style-type: upper-roman ;
+  
+}
+ul.notOrderList{
+    list-style-type: circle;
+}
+
+
+
+span{
+    font-weight: bold;
+    font-style: italic;
+    color: blueviolet;
+}
+
+#para1{
+    text-align: center;
+    
+}
+
+#rightbox{
+float: right;
+width: 70%;
+height: 280px;
+}
+
+#leftbox{
+     float: left;
+width: 70%;
+height: 280px;
+
+}
